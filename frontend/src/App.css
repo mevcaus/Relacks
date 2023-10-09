@@ -5,28 +5,31 @@
 }
 .Navbar {
   grid-column: span 3;
-  background-color: lightgray;
   text-align: center;
   align-items: center;
   height: 4vh;
   min-height: 20px;
+  background-color: #121016;
+  ;
 }
 
 .Space-Selector {
   grid-column: 1;
-  background-color: lightblue;
   text-align: center;
   height: 96vh;
+  background-color: #19171d;
+  line-height: 125%;
 }
 
 .Thread-Selector {
   grid-column: 2;
-  background-color: lightgreen;
   text-align: center;
+  background-color: #19171d;
+  font-family: 'Larsseit', sans-serif;
 }
 
 .Chat-Screen {
   grid-column: 3;
-  background-color: lightyellow;
   text-align: center;
+  background-color: #1a1d21;
 }
